@@ -7,3 +7,5 @@ Dataset description:
 Screenshots were taken in game menu, with different angles and shuffling paintings etc.
 
 You can easily work with jupyter notebook on [Google Colab](https://colab.research.google.com/)
+
+FYI: GSN shortcut comes from "Głębokie Sieci Neuronowe", what means "deep neural networks" in Polish.
