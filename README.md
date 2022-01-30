@@ -1,5 +1,5 @@
 # CNN - recognize cars from Rocket League 
-In this jupyter notebook, we will recognize cars from Rocket League (1421 train photos and 182 test photos), by using convolutional neural network (CNN).
+In this jupyter notebook, we will recognize cars from Rocket League (1421 train photos and 182 test photos), by using convolutional neural network (CNN) and Keras.
 
 Dataset description:
 5 classes (cars) - Octane, Merc, Breakout, Aftershock, Scrab
